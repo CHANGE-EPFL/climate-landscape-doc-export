@@ -1,0 +1,301 @@
+gauge_id,metric,scenario,scenario_group,value,unit,normalization
+12447390,p_ratio,Current,Current,1.0,-,ratio_to_current
+12447390,p_ratio,FGOALS-g3,Future,1.253990814902903,-,ratio_to_current
+12447390,p_ratio,NorESM2-MM,Future,1.155181993721531,-,ratio_to_current
+12447390,p_ratio,ACCESS-CM2,Future,1.2298138876591678,-,ratio_to_current
+12447390,p_ratio,KACE-1-0-G,Future,1.1108727982895634,-,ratio_to_current
+12447390,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+12447390,Q_sim_mmh,FGOALS-g3,Future,1.4220854757606929,-,ratio_to_current
+12447390,Q_sim_mmh,NorESM2-MM,Future,1.1406563091132942,-,ratio_to_current
+12447390,Q_sim_mmh,ACCESS-CM2,Future,1.2858434229147577,-,ratio_to_current
+12447390,Q_sim_mmh,KACE-1-0-G,Future,1.0234037589444496,-,ratio_to_current
+12447390,DOC_flux,Current,Current,1.0,-,ratio_to_current
+12447390,DOC_flux,FGOALS-g3,Future,1.5094460097685753,-,ratio_to_current
+12447390,DOC_flux,NorESM2-MM,Future,1.2293337446482557,-,ratio_to_current
+12447390,DOC_flux,ACCESS-CM2,Future,1.4016288765173668,-,ratio_to_current
+12447390,DOC_flux,KACE-1-0-G,Future,1.1275387837463613,-,ratio_to_current
+12447390,Qlat_out,Current,Current,1.0,-,ratio_to_current
+12447390,Qlat_out,FGOALS-g3,Future,1.470513178712476,-,ratio_to_current
+12447390,Qlat_out,NorESM2-MM,Future,1.2957208911951348,-,ratio_to_current
+12447390,Qlat_out,ACCESS-CM2,Future,1.3186360248608364,-,ratio_to_current
+12447390,Qlat_out,KACE-1-0-G,Future,1.18438089508285,-,ratio_to_current
+09352900,p_ratio,Current,Current,1.0,-,ratio_to_current
+09352900,p_ratio,FGOALS-g3,Future,1.1922966145149556,-,ratio_to_current
+09352900,p_ratio,NorESM2-MM,Future,1.393632697180198,-,ratio_to_current
+09352900,p_ratio,ACCESS-CM2,Future,1.3117030121585393,-,ratio_to_current
+09352900,p_ratio,KACE-1-0-G,Future,1.5141663811783639,-,ratio_to_current
+09352900,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+09352900,Q_sim_mmh,FGOALS-g3,Future,1.317332940339389,-,ratio_to_current
+09352900,Q_sim_mmh,NorESM2-MM,Future,2.0935427038036027,-,ratio_to_current
+09352900,Q_sim_mmh,ACCESS-CM2,Future,1.4063408439730962,-,ratio_to_current
+09352900,Q_sim_mmh,KACE-1-0-G,Future,1.8837634690457943,-,ratio_to_current
+09352900,DOC_flux,Current,Current,1.0,-,ratio_to_current
+09352900,DOC_flux,FGOALS-g3,Future,1.454653923599688,-,ratio_to_current
+09352900,DOC_flux,NorESM2-MM,Future,2.268518040740384,-,ratio_to_current
+09352900,DOC_flux,ACCESS-CM2,Future,1.5949468355760839,-,ratio_to_current
+09352900,DOC_flux,KACE-1-0-G,Future,2.347876413204285,-,ratio_to_current
+09352900,Qlat_out,Current,Current,1.0,-,ratio_to_current
+09352900,Qlat_out,FGOALS-g3,Future,1.4296856074116264,-,ratio_to_current
+09352900,Qlat_out,NorESM2-MM,Future,1.9322777492106609,-,ratio_to_current
+09352900,Qlat_out,ACCESS-CM2,Future,1.323571875918629,-,ratio_to_current
+09352900,Qlat_out,KACE-1-0-G,Future,1.699502605842007,-,ratio_to_current
+10343500,p_ratio,Current,Current,1.0,-,ratio_to_current
+10343500,p_ratio,FGOALS-g3,Future,1.2403265713136102,-,ratio_to_current
+10343500,p_ratio,NorESM2-MM,Future,1.2043177752534775,-,ratio_to_current
+10343500,p_ratio,ACCESS-CM2,Future,1.2448484817108345,-,ratio_to_current
+10343500,p_ratio,KACE-1-0-G,Future,1.2057849149873503,-,ratio_to_current
+10343500,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+10343500,Q_sim_mmh,FGOALS-g3,Future,1.7274160930524178,-,ratio_to_current
+10343500,Q_sim_mmh,NorESM2-MM,Future,1.4815846906089072,-,ratio_to_current
+10343500,Q_sim_mmh,ACCESS-CM2,Future,1.5819871831435486,-,ratio_to_current
+10343500,Q_sim_mmh,KACE-1-0-G,Future,1.385759314556396,-,ratio_to_current
+10343500,DOC_flux,Current,Current,1.0,-,ratio_to_current
+10343500,DOC_flux,FGOALS-g3,Future,2.1821681499898635,-,ratio_to_current
+10343500,DOC_flux,NorESM2-MM,Future,1.844094279170805,-,ratio_to_current
+10343500,DOC_flux,ACCESS-CM2,Future,2.249810515072142,-,ratio_to_current
+10343500,DOC_flux,KACE-1-0-G,Future,1.9064409116601437,-,ratio_to_current
+10343500,Qlat_out,Current,Current,1.0,-,ratio_to_current
+10343500,Qlat_out,FGOALS-g3,Future,1.574337606583178,-,ratio_to_current
+10343500,Qlat_out,NorESM2-MM,Future,1.4599586815715933,-,ratio_to_current
+10343500,Qlat_out,ACCESS-CM2,Future,1.4065915757482435,-,ratio_to_current
+10343500,Qlat_out,KACE-1-0-G,Future,1.2772953786118288,-,ratio_to_current
+07362587,p_ratio,Current,Current,1.0,-,ratio_to_current
+07362587,p_ratio,FGOALS-g3,Future,1.0556179028316504,-,ratio_to_current
+07362587,p_ratio,NorESM2-MM,Future,1.0983354872844282,-,ratio_to_current
+07362587,p_ratio,ACCESS-CM2,Future,1.1471314540959234,-,ratio_to_current
+07362587,p_ratio,KACE-1-0-G,Future,0.9410466201506181,-,ratio_to_current
+07362587,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+07362587,Q_sim_mmh,FGOALS-g3,Future,1.050019837240322,-,ratio_to_current
+07362587,Q_sim_mmh,NorESM2-MM,Future,1.1342405362015742,-,ratio_to_current
+07362587,Q_sim_mmh,ACCESS-CM2,Future,1.2042595362390915,-,ratio_to_current
+07362587,Q_sim_mmh,KACE-1-0-G,Future,0.8074092907348343,-,ratio_to_current
+07362587,DOC_flux,Current,Current,1.0,-,ratio_to_current
+07362587,DOC_flux,FGOALS-g3,Future,1.1184290313259744,-,ratio_to_current
+07362587,DOC_flux,NorESM2-MM,Future,1.250657739697403,-,ratio_to_current
+07362587,DOC_flux,ACCESS-CM2,Future,1.351397125818094,-,ratio_to_current
+07362587,DOC_flux,KACE-1-0-G,Future,0.9032050344535324,-,ratio_to_current
+07362587,Qlat_out,Current,Current,1.0,-,ratio_to_current
+07362587,Qlat_out,FGOALS-g3,Future,0.9983244001685311,-,ratio_to_current
+07362587,Qlat_out,NorESM2-MM,Future,1.0346584115525381,-,ratio_to_current
+07362587,Qlat_out,ACCESS-CM2,Future,1.074686844678775,-,ratio_to_current
+07362587,Qlat_out,KACE-1-0-G,Future,0.8138663435288184,-,ratio_to_current
+01545600,p_ratio,Current,Current,1.0,-,ratio_to_current
+01545600,p_ratio,FGOALS-g3,Future,1.1192323912557725,-,ratio_to_current
+01545600,p_ratio,NorESM2-MM,Future,1.091449892584251,-,ratio_to_current
+01545600,p_ratio,ACCESS-CM2,Future,1.1151184816232926,-,ratio_to_current
+01545600,p_ratio,KACE-1-0-G,Future,1.0466282154495878,-,ratio_to_current
+01545600,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+01545600,Q_sim_mmh,FGOALS-g3,Future,1.1410770665137677,-,ratio_to_current
+01545600,Q_sim_mmh,NorESM2-MM,Future,1.0411818482320125,-,ratio_to_current
+01545600,Q_sim_mmh,ACCESS-CM2,Future,1.0654089141459995,-,ratio_to_current
+01545600,Q_sim_mmh,KACE-1-0-G,Future,0.8780107081526097,-,ratio_to_current
+01545600,DOC_flux,Current,Current,1.0,-,ratio_to_current
+01545600,DOC_flux,FGOALS-g3,Future,1.2140092054990532,-,ratio_to_current
+01545600,DOC_flux,NorESM2-MM,Future,1.1024184047727585,-,ratio_to_current
+01545600,DOC_flux,ACCESS-CM2,Future,1.169940279696957,-,ratio_to_current
+01545600,DOC_flux,KACE-1-0-G,Future,0.9322136828823437,-,ratio_to_current
+01545600,Qlat_out,Current,Current,1.0,-,ratio_to_current
+01545600,Qlat_out,FGOALS-g3,Future,1.0803524941370262,-,ratio_to_current
+01545600,Qlat_out,NorESM2-MM,Future,0.9890784618070385,-,ratio_to_current
+01545600,Qlat_out,ACCESS-CM2,Future,0.9686017976749215,-,ratio_to_current
+01545600,Qlat_out,KACE-1-0-G,Future,0.8361982669513286,-,ratio_to_current
+01434025,p_ratio,Current,Current,1.0,-,ratio_to_current
+01434025,p_ratio,FGOALS-g3,Future,1.1716727955286326,-,ratio_to_current
+01434025,p_ratio,NorESM2-MM,Future,1.107098674382276,-,ratio_to_current
+01434025,p_ratio,ACCESS-CM2,Future,1.2100800540547871,-,ratio_to_current
+01434025,p_ratio,KACE-1-0-G,Future,0.9866590996451781,-,ratio_to_current
+01434025,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+01434025,Q_sim_mmh,FGOALS-g3,Future,1.2471670705225393,-,ratio_to_current
+01434025,Q_sim_mmh,NorESM2-MM,Future,1.0792193050486827,-,ratio_to_current
+01434025,Q_sim_mmh,ACCESS-CM2,Future,1.2083601619344462,-,ratio_to_current
+01434025,Q_sim_mmh,KACE-1-0-G,Future,0.8253921984458653,-,ratio_to_current
+01434025,DOC_flux,Current,Current,1.0,-,ratio_to_current
+01434025,DOC_flux,FGOALS-g3,Future,1.3390776390742873,-,ratio_to_current
+01434025,DOC_flux,NorESM2-MM,Future,1.1128145129255145,-,ratio_to_current
+01434025,DOC_flux,ACCESS-CM2,Future,1.293370111677489,-,ratio_to_current
+01434025,DOC_flux,KACE-1-0-G,Future,0.8494062227712658,-,ratio_to_current
+01434025,Qlat_out,Current,Current,1.0,-,ratio_to_current
+01434025,Qlat_out,FGOALS-g3,Future,1.2158594564445855,-,ratio_to_current
+01434025,Qlat_out,NorESM2-MM,Future,1.0664279772839949,-,ratio_to_current
+01434025,Qlat_out,ACCESS-CM2,Future,1.1449063475085466,-,ratio_to_current
+01434025,Qlat_out,KACE-1-0-G,Future,0.840095908717547,-,ratio_to_current
+01054200,p_ratio,Current,Current,1.0,-,ratio_to_current
+01054200,p_ratio,FGOALS-g3,Future,1.1462618489338687,-,ratio_to_current
+01054200,p_ratio,NorESM2-MM,Future,1.1871580456187418,-,ratio_to_current
+01054200,p_ratio,ACCESS-CM2,Future,1.230710016819273,-,ratio_to_current
+01054200,p_ratio,KACE-1-0-G,Future,0.9881622606534264,-,ratio_to_current
+01054200,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+01054200,Q_sim_mmh,FGOALS-g3,Future,1.2052157916793347,-,ratio_to_current
+01054200,Q_sim_mmh,NorESM2-MM,Future,1.2282706272642336,-,ratio_to_current
+01054200,Q_sim_mmh,ACCESS-CM2,Future,1.2637659621982393,-,ratio_to_current
+01054200,Q_sim_mmh,KACE-1-0-G,Future,0.8576879653415355,-,ratio_to_current
+01054200,DOC_flux,Current,Current,1.0,-,ratio_to_current
+01054200,DOC_flux,FGOALS-g3,Future,1.2996498488908792,-,ratio_to_current
+01054200,DOC_flux,NorESM2-MM,Future,1.3315284601890172,-,ratio_to_current
+01054200,DOC_flux,ACCESS-CM2,Future,1.385730773651152,-,ratio_to_current
+01054200,DOC_flux,KACE-1-0-G,Future,0.9237458607836257,-,ratio_to_current
+01054200,Qlat_out,Current,Current,1.0,-,ratio_to_current
+01054200,Qlat_out,FGOALS-g3,Future,1.2102308490541578,-,ratio_to_current
+01054200,Qlat_out,NorESM2-MM,Future,1.2132629212985806,-,ratio_to_current
+01054200,Qlat_out,ACCESS-CM2,Future,1.2386154598038286,-,ratio_to_current
+01054200,Qlat_out,KACE-1-0-G,Future,0.9300517814548227,-,ratio_to_current
+12056500,p_ratio,Current,Current,1.0,-,ratio_to_current
+12056500,p_ratio,FGOALS-g3,Future,1.206644809625266,-,ratio_to_current
+12056500,p_ratio,NorESM2-MM,Future,1.1400217357757056,-,ratio_to_current
+12056500,p_ratio,ACCESS-CM2,Future,1.1446981468090482,-,ratio_to_current
+12056500,p_ratio,KACE-1-0-G,Future,1.117380220799027,-,ratio_to_current
+12056500,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+12056500,Q_sim_mmh,FGOALS-g3,Future,1.2863581408608358,-,ratio_to_current
+12056500,Q_sim_mmh,NorESM2-MM,Future,1.1868849899591987,-,ratio_to_current
+12056500,Q_sim_mmh,ACCESS-CM2,Future,1.1901128607699119,-,ratio_to_current
+12056500,Q_sim_mmh,KACE-1-0-G,Future,1.1508107036071977,-,ratio_to_current
+12056500,DOC_flux,Current,Current,1.0,-,ratio_to_current
+12056500,DOC_flux,FGOALS-g3,Future,1.3181821827436082,-,ratio_to_current
+12056500,DOC_flux,NorESM2-MM,Future,1.24942349688516,-,ratio_to_current
+12056500,DOC_flux,ACCESS-CM2,Future,1.2725049913289082,-,ratio_to_current
+12056500,DOC_flux,KACE-1-0-G,Future,1.2297554862348,-,ratio_to_current
+12056500,Qlat_out,Current,Current,1.0,-,ratio_to_current
+12056500,Qlat_out,FGOALS-g3,Future,1.1138698489352197,-,ratio_to_current
+12056500,Qlat_out,NorESM2-MM,Future,1.0482011500823794,-,ratio_to_current
+12056500,Qlat_out,ACCESS-CM2,Future,1.039491741530316,-,ratio_to_current
+12056500,Qlat_out,KACE-1-0-G,Future,1.0171620585984806,-,ratio_to_current
+2203,p_ratio,Current,Current,1.0,-,ratio_to_current
+2203,p_ratio,FGOALS-g3,Future,1.0050346165487487,-,ratio_to_current
+2203,p_ratio,NorESM2-MM,Future,0.8173514024545762,-,ratio_to_current
+2203,p_ratio,ACCESS-CM2,Future,0.942039720735838,-,ratio_to_current
+2203,p_ratio,KACE-1-0-G,Future,0.8259306704582869,-,ratio_to_current
+2203,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+2203,Q_sim_mmh,FGOALS-g3,Future,0.9765785967787888,-,ratio_to_current
+2203,Q_sim_mmh,NorESM2-MM,Future,0.6505419844972918,-,ratio_to_current
+2203,Q_sim_mmh,ACCESS-CM2,Future,0.7897915974784614,-,ratio_to_current
+2203,Q_sim_mmh,KACE-1-0-G,Future,0.6069190883898574,-,ratio_to_current
+2203,DOC_flux,Current,Current,1.0,-,ratio_to_current
+2203,DOC_flux,FGOALS-g3,Future,0.9812635606865073,-,ratio_to_current
+2203,DOC_flux,NorESM2-MM,Future,0.6270560005178166,-,ratio_to_current
+2203,DOC_flux,ACCESS-CM2,Future,0.7947545186534654,-,ratio_to_current
+2203,DOC_flux,KACE-1-0-G,Future,0.5904232792908066,-,ratio_to_current
+2203,Qlat_out,Current,Current,1.0,-,ratio_to_current
+2203,Qlat_out,FGOALS-g3,Future,1.0056944166910977,-,ratio_to_current
+2203,Qlat_out,NorESM2-MM,Future,0.7399709309247814,-,ratio_to_current
+2203,Qlat_out,ACCESS-CM2,Future,0.8792240699812465,-,ratio_to_current
+2203,Qlat_out,KACE-1-0-G,Future,0.7153823788151812,-,ratio_to_current
+2420,p_ratio,Current,Current,1.0,-,ratio_to_current
+2420,p_ratio,FGOALS-g3,Future,0.9874952803879373,-,ratio_to_current
+2420,p_ratio,NorESM2-MM,Future,0.8485313059486421,-,ratio_to_current
+2420,p_ratio,ACCESS-CM2,Future,0.933630003431596,-,ratio_to_current
+2420,p_ratio,KACE-1-0-G,Future,0.8280556012675923,-,ratio_to_current
+2420,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+2420,Q_sim_mmh,FGOALS-g3,Future,0.9610902755633002,-,ratio_to_current
+2420,Q_sim_mmh,NorESM2-MM,Future,0.6849881013522277,-,ratio_to_current
+2420,Q_sim_mmh,ACCESS-CM2,Future,0.7703243550338669,-,ratio_to_current
+2420,Q_sim_mmh,KACE-1-0-G,Future,0.5973159430325311,-,ratio_to_current
+2420,DOC_flux,Current,Current,1.0,-,ratio_to_current
+2420,DOC_flux,FGOALS-g3,Future,0.9950707096553469,-,ratio_to_current
+2420,DOC_flux,NorESM2-MM,Future,0.7176260874933127,-,ratio_to_current
+2420,DOC_flux,ACCESS-CM2,Future,0.820942496135877,-,ratio_to_current
+2420,DOC_flux,KACE-1-0-G,Future,0.6390878490083598,-,ratio_to_current
+2420,Qlat_out,Current,Current,1.0,-,ratio_to_current
+2420,Qlat_out,FGOALS-g3,Future,0.9865829984033622,-,ratio_to_current
+2420,Qlat_out,NorESM2-MM,Future,0.7645884572786328,-,ratio_to_current
+2420,Qlat_out,ACCESS-CM2,Future,0.835718066889127,-,ratio_to_current
+2420,Qlat_out,KACE-1-0-G,Future,0.6904688924386558,-,ratio_to_current
+2481,p_ratio,Current,Current,1.0,-,ratio_to_current
+2481,p_ratio,FGOALS-g3,Future,1.0256726994768206,-,ratio_to_current
+2481,p_ratio,NorESM2-MM,Future,0.8407431006685765,-,ratio_to_current
+2481,p_ratio,ACCESS-CM2,Future,0.9467861083819994,-,ratio_to_current
+2481,p_ratio,KACE-1-0-G,Future,0.835901975669242,-,ratio_to_current
+2481,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+2481,Q_sim_mmh,FGOALS-g3,Future,1.0077165525292957,-,ratio_to_current
+2481,Q_sim_mmh,NorESM2-MM,Future,0.6996474005610114,-,ratio_to_current
+2481,Q_sim_mmh,ACCESS-CM2,Future,0.8080695392510958,-,ratio_to_current
+2481,Q_sim_mmh,KACE-1-0-G,Future,0.6422917277034063,-,ratio_to_current
+2481,DOC_flux,Current,Current,1.0,-,ratio_to_current
+2481,DOC_flux,FGOALS-g3,Future,1.0409378103069753,-,ratio_to_current
+2481,DOC_flux,NorESM2-MM,Future,0.7269024142340061,-,ratio_to_current
+2481,DOC_flux,ACCESS-CM2,Future,0.8519902324694576,-,ratio_to_current
+2481,DOC_flux,KACE-1-0-G,Future,0.6683339265958124,-,ratio_to_current
+2481,Qlat_out,Current,Current,1.0,-,ratio_to_current
+2481,Qlat_out,FGOALS-g3,Future,1.0322619118914251,-,ratio_to_current
+2481,Qlat_out,NorESM2-MM,Future,0.797654551802607,-,ratio_to_current
+2481,Qlat_out,ACCESS-CM2,Future,0.8929346448283039,-,ratio_to_current
+2481,Qlat_out,KACE-1-0-G,Future,0.7497125005114115,-,ratio_to_current
+2469,p_ratio,Current,Current,1.0,-,ratio_to_current
+2469,p_ratio,FGOALS-g3,Future,1.0071969816286106,-,ratio_to_current
+2469,p_ratio,NorESM2-MM,Future,0.8115616004241685,-,ratio_to_current
+2469,p_ratio,ACCESS-CM2,Future,0.9302232479816627,-,ratio_to_current
+2469,p_ratio,KACE-1-0-G,Future,0.8187138183564417,-,ratio_to_current
+2469,Q_sim_mmh,Current,Current,1.0,-,ratio_to_current
+2469,Q_sim_mmh,FGOALS-g3,Future,0.974604701835608,-,ratio_to_current
+2469,Q_sim_mmh,NorESM2-MM,Future,0.6350041849532285,-,ratio_to_current
+2469,Q_sim_mmh,ACCESS-CM2,Future,0.7448128229247275,-,ratio_to_current
+2469,Q_sim_mmh,KACE-1-0-G,Future,0.5761533878954981,-,ratio_to_current
+2469,DOC_flux,Current,Current,1.0,-,ratio_to_current
+2469,DOC_flux,FGOALS-g3,Future,1.0076764150144926,-,ratio_to_current
+2469,DOC_flux,NorESM2-MM,Future,0.6515136321371385,-,ratio_to_current
+2469,DOC_flux,ACCESS-CM2,Future,0.7862649315436279,-,ratio_to_current
+2469,DOC_flux,KACE-1-0-G,Future,0.599366145522928,-,ratio_to_current
+2469,Qlat_out,Current,Current,1.0,-,ratio_to_current
+2469,Qlat_out,FGOALS-g3,Future,0.9968214582323305,-,ratio_to_current
+2469,Qlat_out,NorESM2-MM,Future,0.719079327023401,-,ratio_to_current
+2469,Qlat_out,ACCESS-CM2,Future,0.8345451698864991,-,ratio_to_current
+2469,Qlat_out,KACE-1-0-G,Future,0.6793436996784716,-,ratio_to_current
+12447390,cq_slope_b,Current,Current,0.3877813973591344,-,log-log slope
+12447390,cq_slope_b,FGOALS-g3,Future,0.6576537963398472,-,log-log slope
+12447390,cq_slope_b,ACCESS-CM2,Future,0.8013271788911159,-,log-log slope
+12447390,cq_slope_b,NorESM2-MM,Future,0.7734756807905816,-,log-log slope
+12447390,cq_slope_b,KACE-1-0-G,Future,0.9392584870872372,-,log-log slope
+09352900,cq_slope_b,Current,Current,0.1767067405700823,-,log-log slope
+09352900,cq_slope_b,FGOALS-g3,Future,0.2301275666523519,-,log-log slope
+09352900,cq_slope_b,ACCESS-CM2,Future,0.209118266845729,-,log-log slope
+09352900,cq_slope_b,NorESM2-MM,Future,0.2421855679509721,-,log-log slope
+09352900,cq_slope_b,KACE-1-0-G,Future,0.2700596581528766,-,log-log slope
+10343500,cq_slope_b,Current,Current,0.0104088486700356,-,log-log slope
+10343500,cq_slope_b,FGOALS-g3,Future,0.0465007096053244,-,log-log slope
+10343500,cq_slope_b,ACCESS-CM2,Future,0.0534960412376573,-,log-log slope
+10343500,cq_slope_b,NorESM2-MM,Future,0.0412619138594654,-,log-log slope
+10343500,cq_slope_b,KACE-1-0-G,Future,0.0457439789567018,-,log-log slope
+07362587,cq_slope_b,Current,Current,-0.1465935812058241,-,log-log slope
+07362587,cq_slope_b,FGOALS-g3,Future,-0.1472582143643636,-,log-log slope
+07362587,cq_slope_b,ACCESS-CM2,Future,-0.130146571318364,-,log-log slope
+07362587,cq_slope_b,NorESM2-MM,Future,-0.1287323068130403,-,log-log slope
+07362587,cq_slope_b,KACE-1-0-G,Future,-0.1021332919468683,-,log-log slope
+01545600,cq_slope_b,Current,Current,0.4032999641872699,-,log-log slope
+01545600,cq_slope_b,FGOALS-g3,Future,0.4504635610447994,-,log-log slope
+01545600,cq_slope_b,ACCESS-CM2,Future,0.5435562724660512,-,log-log slope
+01545600,cq_slope_b,NorESM2-MM,Future,0.4807642156356433,-,log-log slope
+01545600,cq_slope_b,KACE-1-0-G,Future,0.5413329470827746,-,log-log slope
+01434025,cq_slope_b,Current,Current,0.2342482792056881,-,log-log slope
+01434025,cq_slope_b,FGOALS-g3,Future,0.5153614891868683,-,log-log slope
+01434025,cq_slope_b,ACCESS-CM2,Future,0.5246559697846561,-,log-log slope
+01434025,cq_slope_b,NorESM2-MM,Future,0.5389517921709869,-,log-log slope
+01434025,cq_slope_b,KACE-1-0-G,Future,0.5042595725249757,-,log-log slope
+01054200,cq_slope_b,Current,Current,0.1344718099634655,-,log-log slope
+01054200,cq_slope_b,FGOALS-g3,Future,0.1287844112879828,-,log-log slope
+01054200,cq_slope_b,ACCESS-CM2,Future,0.1253334054389157,-,log-log slope
+01054200,cq_slope_b,NorESM2-MM,Future,0.1409704491261983,-,log-log slope
+01054200,cq_slope_b,KACE-1-0-G,Future,0.2510028240581366,-,log-log slope
+12056500,cq_slope_b,Current,Current,0.1194593223771856,-,log-log slope
+12056500,cq_slope_b,FGOALS-g3,Future,0.1562514666318654,-,log-log slope
+12056500,cq_slope_b,ACCESS-CM2,Future,0.2122650831003344,-,log-log slope
+12056500,cq_slope_b,NorESM2-MM,Future,0.1689523191508569,-,log-log slope
+12056500,cq_slope_b,KACE-1-0-G,Future,0.2211056792212479,-,log-log slope
+2203,cq_slope_b,Current,Current,0.0219994849065949,-,log-log slope
+2203,cq_slope_b,FGOALS-g3,Future,0.0601126357290754,-,log-log slope
+2203,cq_slope_b,ACCESS-CM2,Future,0.1570831661990791,-,log-log slope
+2203,cq_slope_b,NorESM2-MM,Future,0.1030388808093843,-,log-log slope
+2203,cq_slope_b,KACE-1-0-G,Future,0.1421757116237801,-,log-log slope
+2420,cq_slope_b,Current,Current,-0.0412932872468156,-,log-log slope
+2420,cq_slope_b,FGOALS-g3,Future,-0.0620272635973048,-,log-log slope
+2420,cq_slope_b,ACCESS-CM2,Future,-0.0883530955956515,-,log-log slope
+2420,cq_slope_b,NorESM2-MM,Future,-0.1137601847717073,-,log-log slope
+2420,cq_slope_b,KACE-1-0-G,Future,-0.1113358031028531,-,log-log slope
+2481,cq_slope_b,Current,Current,0.0013435521738561,-,log-log slope
+2481,cq_slope_b,FGOALS-g3,Future,-0.1206441246170352,-,log-log slope
+2481,cq_slope_b,ACCESS-CM2,Future,-0.1867538368459434,-,log-log slope
+2481,cq_slope_b,NorESM2-MM,Future,-0.2092570603011649,-,log-log slope
+2481,cq_slope_b,KACE-1-0-G,Future,-0.201271937862564,-,log-log slope
+2469,cq_slope_b,Current,Current,-0.0631566652775688,-,log-log slope
+2469,cq_slope_b,FGOALS-g3,Future,-0.1326179422921203,-,log-log slope
+2469,cq_slope_b,ACCESS-CM2,Future,-0.1166513177302049,-,log-log slope
+2469,cq_slope_b,NorESM2-MM,Future,-0.1336645622331039,-,log-log slope
+2469,cq_slope_b,KACE-1-0-G,Future,-0.109142644695822,-,log-log slope

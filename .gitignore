@@ -1,0 +1,13 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system temporary files
+*.asv
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini

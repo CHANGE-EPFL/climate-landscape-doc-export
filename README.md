@@ -44,9 +44,6 @@ and analyses are unchanged.
 | Extended Data Fig. 2 | Fig. 6 |
 | Fig. 5 | Fig. 7 |
 
-When locating associated source data or plotting scripts, use the original labels
-listed in the left column. Supplementary Figs. S1-S17 and Supplementary Tables
-S1-S4 retain their original numbering.
 
 ## Citation
 

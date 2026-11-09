@@ -23,28 +23,6 @@ and Switzerland, together with continental-scale vulnerability mapping.
 Follow the README in each folder for dependencies and reproduction steps.
 Large raw simulation outputs and local Python environments are not included.
 
-## Figure numbering and correspondence
-
-The files in this repository retain their original figure labels. In the
-manuscript version containing seven main figures, the two figures originally
-labelled as Extended Data figures are incorporated into the main figure sequence.
-The table below provides the correspondence between the original labels and the
-seven-main-figure numbering.
-
-This change concerns figure numbering and placement only; the underlying data
-and analyses are unchanged.
-
-| Original figure label | Figure number in the seven-main-figure manuscript |
-|---|---|
-| Extended Data Fig. 1 | Fig. 1 |
-| Fig. 1 | Fig. 2 |
-| Fig. 2 | Fig. 3 |
-| Fig. 3 | Fig. 4 |
-| Fig. 4 | Fig. 5 |
-| Extended Data Fig. 2 | Fig. 6 |
-| Fig. 5 | Fig. 7 |
-
-
 ## Citation
 
 If you use these data or code, please cite the manuscript above and the original

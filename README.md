@@ -17,8 +17,7 @@ and Switzerland, together with continental-scale vulnerability mapping.
 - [T&C model configurations and inputs](T&C/README.md): meteorological data
   preparation and contemporary and future simulations for the 12 catchments.
 - [Figure source data and scripts](figure%20source%20data%20and%20script/README.md):
-  data and standalone analysis and plotting scripts for Figures 1-5 and
-  Extended Data Figures 1-2 (original labels; see the correspondence below).
+  data and standalone analysis and plotting scripts for Figures.
 
 Follow the README in each folder for dependencies and reproduction steps.
 Large raw simulation outputs and local Python environments are not included.
